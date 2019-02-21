@@ -1,9 +1,9 @@
 # IngenieriaSoftware
 **5.- OBJETIVO GENERAL DEL CURSO**
  -Aplicar técnicas de adquisición de datos (entrevistas, cuestionarios, sondeos, entre otros) para el 
- desarrollo de su proyecto de software.- 
+ desarrollo de su proyecto de software.* 
  -Aplicar los elementos y conceptos integrados en los procesos de desarrollo de software para la 
- documentación adecuada de su proyecto de software.- 
+ documentación adecuada de su proyecto de software.* 
  _____________________________________________________________________________________________________
 **6.- COMPETENCIAS PREVIAS** 
  -Construir diagramas de tiempo para determinar ruta(s) crítica(s) en la administración de un proyecto.- 
