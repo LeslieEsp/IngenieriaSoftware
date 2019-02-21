@@ -1,5 +1,5 @@
 # IngenieriaSoftware
-**5.- OBJETIVO GENERAL DEL CURSO  **
+**5.- OBJETIVO GENERAL DEL CURSO**
  Aplicar técnicas de adquisición de datos (entrevistas, cuestionarios, sondeos, entre otros) para el 
  desarrollo de su proyecto de software. 
  Aplicar los elementos y conceptos integrados en los procesos de desarrollo de software para la 
@@ -15,11 +15,11 @@
  automatización para la toma decisiones. 
  Diseñar esquemas de bases de datos para generar soluciones al tratamiento de información. 
  ______________________________________________________________________________________________________
-**7.- TEMARIO **
+**7.- TEMARIO**
  
 Unidad 	Temas 	Subtemas
  
-      **1.  	Introducción a la ingeniería del software y sistemas de información **	
+      **1.  	Introducción a la ingeniería del software y sistemas de información**	
 1.1. Conceptos de Ingeniería del Software: mitos, paradigma, ingeniería de software, calidad, proceso,
      método, herramienta, espectro de gestión. 
 1.2. La 	importancia 	de 	la 	ingeniería 	del software. 
@@ -27,7 +27,7 @@ Unidad 	Temas 	Subtemas
 1.4. Los sistemas de información: concepto, características, estructuras, procesos, clasificación, ERP´s,
      CRM, SCM. 
 
-      ** 2.  	Modelos de la ingeniería del software **	
+      **2.  	Modelos de la ingeniería del software**	
 2.1. Modelo de capacidad de madurez. 
 2.2. Marco de trabajo para el proceso. 
 2.3. Modelos de la ingeniería del software: modelo de cascada, modelo de prototipos, modelo de espiral,
@@ -49,7 +49,7 @@ Unidad 	Temas 	Subtemas
      métricas orientadas al tamaño, métricas para la calidad del software. 
 4.5. Implementación y mantenimiento: entrega, retroalimentación del cliente. 
 
-       **5.  	Calidad del software **	
+       **5.  	Calidad del software**	
 5.1. Definición de calidad y calidad del software.
 5.2. Importancia de la calidad. 
 5.3. La calidad y la globalización. 
