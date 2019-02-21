@@ -1,5 +1,6 @@
 # IngenieriaSoftware
 **5.- OBJETIVO GENERAL DEL CURSO**
+
  -Aplicar técnicas de adquisición de datos (entrevistas, cuestionarios, sondeos, entre otros) para el 
  desarrollo de su proyecto de software.
  
@@ -7,6 +8,7 @@
  documentación adecuada de su proyecto de software.
  _____________________________________________________________________________________________________
 **6.- COMPETENCIAS PREVIAS** 
+
  -Construir diagramas de tiempo para determinar ruta(s) crítica(s) en la administración de un proyecto.
  
  -Aplicar técnicas de modelado para la solución de problemas.
@@ -27,6 +29,7 @@
 **Unidad 	Temas 	Subtemas**
 
 **1.  	Introducción a la ingeniería del software y sistemas de información**	
+
 -1.1. Conceptos de Ingeniería del Software: mitos, paradigma, ingeniería de software, calidad, proceso,
      método, herramienta, espectro de gestión.
      
@@ -38,13 +41,18 @@
      CRM, SCM.
 
  **2.  	Modelos de la ingeniería del software**	
--2.1. Modelo de capacidad de madurez.- 
--2.2. Marco de trabajo para el proceso.- 
+ 
+-2.1. Modelo de capacidad de madurez.
+
+-2.2. Marco de trabajo para el proceso.
+
 -2.3. Modelos de la ingeniería del software: modelo de cascada, modelo de prototipos, modelo de espiral,
-     modelo de Proceso Unificado Racional (RUP).- 
--2.4. Tendencias modernas de modelos de la ingeniería del software.-
+     modelo de Proceso Unificado Racional (RUP).
+     
+-2.4. Tendencias modernas de modelos de la ingeniería del software.
 
 **3.  	Planificación del proyecto de software** 	
+
 -3.1. Aplicación de herramientas para estimación de tiempos y costos de desarrollo de software: GANTT,
      PERT/CPM, uso de software para la estimación de tiempos y costos.
      
@@ -53,10 +61,12 @@
 -3.3. Análisis y gestión del riesgo: estrategias, identificación, proyección, refinamiento, reducción, 
      supervisión y gestión del riesgo.
 
-**4.  	 Análisis del proyecto de software** 	
+**4.  	 Análisis del proyecto de software**
+
 -4.1. Modelado: análisis, diseño, documentación.
 
--4.2. Construcción: codificación, pruebas y evaluación, manual del usuario, manual técnico.- 
+-4.2. Construcción: codificación, pruebas y evaluación, manual del usuario, manual técnico.
+
 -4.3. Medida, métrica e indicador.
 
 -4.4. Tipos de métricas: métricas de proceso, métricas de proyecto, métricas orientadas a punto de función,
@@ -64,7 +74,8 @@
      
 -4.5. Implementación y mantenimiento: entrega, retroalimentación del cliente. 
 
-**5.  	Calidad del software**	
+**5.  	Calidad del software**
+
 -5.1. Definición de calidad y calidad del software.
 
 -5.2. Importancia de la calidad.
